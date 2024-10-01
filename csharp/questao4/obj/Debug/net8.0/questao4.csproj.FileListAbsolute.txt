@@ -1,0 +1,15 @@
+C:\Users\docto\Desktop\teste_target\csharp\questao4\bin\Debug\net8.0\questao4.exe
+C:\Users\docto\Desktop\teste_target\csharp\questao4\bin\Debug\net8.0\questao4.deps.json
+C:\Users\docto\Desktop\teste_target\csharp\questao4\bin\Debug\net8.0\questao4.runtimeconfig.json
+C:\Users\docto\Desktop\teste_target\csharp\questao4\bin\Debug\net8.0\questao4.dll
+C:\Users\docto\Desktop\teste_target\csharp\questao4\bin\Debug\net8.0\questao4.pdb
+C:\Users\docto\Desktop\teste_target\csharp\questao4\obj\Debug\net8.0\questao4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\docto\Desktop\teste_target\csharp\questao4\obj\Debug\net8.0\questao4.AssemblyInfoInputs.cache
+C:\Users\docto\Desktop\teste_target\csharp\questao4\obj\Debug\net8.0\questao4.AssemblyInfo.cs
+C:\Users\docto\Desktop\teste_target\csharp\questao4\obj\Debug\net8.0\questao4.csproj.CoreCompileInputs.cache
+C:\Users\docto\Desktop\teste_target\csharp\questao4\obj\Debug\net8.0\questao4.sourcelink.json
+C:\Users\docto\Desktop\teste_target\csharp\questao4\obj\Debug\net8.0\questao4.dll
+C:\Users\docto\Desktop\teste_target\csharp\questao4\obj\Debug\net8.0\refint\questao4.dll
+C:\Users\docto\Desktop\teste_target\csharp\questao4\obj\Debug\net8.0\questao4.pdb
+C:\Users\docto\Desktop\teste_target\csharp\questao4\obj\Debug\net8.0\questao4.genruntimeconfig.cache
+C:\Users\docto\Desktop\teste_target\csharp\questao4\obj\Debug\net8.0\ref\questao4.dll

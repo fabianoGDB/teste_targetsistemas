@@ -1,0 +1,15 @@
+C:\Users\docto\Desktop\teste_target\csharp\questao3\obj\Debug\net8.0\questao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\docto\Desktop\teste_target\csharp\questao3\obj\Debug\net8.0\questao3.AssemblyInfoInputs.cache
+C:\Users\docto\Desktop\teste_target\csharp\questao3\obj\Debug\net8.0\questao3.AssemblyInfo.cs
+C:\Users\docto\Desktop\teste_target\csharp\questao3\obj\Debug\net8.0\questao3.csproj.CoreCompileInputs.cache
+C:\Users\docto\Desktop\teste_target\csharp\questao3\obj\Debug\net8.0\questao3.sourcelink.json
+C:\Users\docto\Desktop\teste_target\csharp\questao3\bin\Debug\net8.0\questao3.exe
+C:\Users\docto\Desktop\teste_target\csharp\questao3\bin\Debug\net8.0\questao3.deps.json
+C:\Users\docto\Desktop\teste_target\csharp\questao3\bin\Debug\net8.0\questao3.runtimeconfig.json
+C:\Users\docto\Desktop\teste_target\csharp\questao3\bin\Debug\net8.0\questao3.dll
+C:\Users\docto\Desktop\teste_target\csharp\questao3\bin\Debug\net8.0\questao3.pdb
+C:\Users\docto\Desktop\teste_target\csharp\questao3\obj\Debug\net8.0\questao3.dll
+C:\Users\docto\Desktop\teste_target\csharp\questao3\obj\Debug\net8.0\refint\questao3.dll
+C:\Users\docto\Desktop\teste_target\csharp\questao3\obj\Debug\net8.0\questao3.pdb
+C:\Users\docto\Desktop\teste_target\csharp\questao3\obj\Debug\net8.0\questao3.genruntimeconfig.cache
+C:\Users\docto\Desktop\teste_target\csharp\questao3\obj\Debug\net8.0\ref\questao3.dll

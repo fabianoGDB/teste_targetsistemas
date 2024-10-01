@@ -1,0 +1,15 @@
+C:\Users\docto\Desktop\teste_target\csharp\questao2\bin\Debug\net8.0\questao2.exe
+C:\Users\docto\Desktop\teste_target\csharp\questao2\bin\Debug\net8.0\questao2.deps.json
+C:\Users\docto\Desktop\teste_target\csharp\questao2\bin\Debug\net8.0\questao2.runtimeconfig.json
+C:\Users\docto\Desktop\teste_target\csharp\questao2\bin\Debug\net8.0\questao2.dll
+C:\Users\docto\Desktop\teste_target\csharp\questao2\bin\Debug\net8.0\questao2.pdb
+C:\Users\docto\Desktop\teste_target\csharp\questao2\obj\Debug\net8.0\questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\docto\Desktop\teste_target\csharp\questao2\obj\Debug\net8.0\questao2.AssemblyInfoInputs.cache
+C:\Users\docto\Desktop\teste_target\csharp\questao2\obj\Debug\net8.0\questao2.AssemblyInfo.cs
+C:\Users\docto\Desktop\teste_target\csharp\questao2\obj\Debug\net8.0\questao2.csproj.CoreCompileInputs.cache
+C:\Users\docto\Desktop\teste_target\csharp\questao2\obj\Debug\net8.0\questao2.sourcelink.json
+C:\Users\docto\Desktop\teste_target\csharp\questao2\obj\Debug\net8.0\questao2.dll
+C:\Users\docto\Desktop\teste_target\csharp\questao2\obj\Debug\net8.0\refint\questao2.dll
+C:\Users\docto\Desktop\teste_target\csharp\questao2\obj\Debug\net8.0\questao2.pdb
+C:\Users\docto\Desktop\teste_target\csharp\questao2\obj\Debug\net8.0\questao2.genruntimeconfig.cache
+C:\Users\docto\Desktop\teste_target\csharp\questao2\obj\Debug\net8.0\ref\questao2.dll
